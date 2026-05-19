@@ -1,4 +1,6 @@
-# The Optimal Stopping / Secretary Problem
+<p align="center">
+  <img src="assets/banner.svg" alt="Optimal Stopping — Secretary Problem" width="100%"/>
+</p>
 
 A Python simulation and analysis of the classical **Secretary Problem** (also known as the Optimal Stopping Problem), exploring the famous `n/e` threshold strategy through both Monte Carlo simulation and theoretical derivation.
 
@@ -93,3 +95,9 @@ Planned additions:
 
 - Ferguson, T.S. (1989). *Who solved the secretary problem?*
 - [Wikipedia — Secretary Problem](https://en.wikipedia.org/wiki/Secretary_problem)
+
+---
+
+<p align="center">
+  <img src="assets/footer.svg" alt="P(success) converges to 1/e" width="100%"/>
+</p>
